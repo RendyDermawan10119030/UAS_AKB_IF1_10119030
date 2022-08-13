@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UAS_AKB_IF1_10119030</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // keterangan untuk mengambil judul view pager
+    <string name="judul_1">Catat Kebutuhanmu Disini</string>
+    <string name="judul_2">Buka Catatan Mu Di Semua Perangkat</string>
+
+    // keterangan untuk mengambil deskripsi view pager
+    <string name="desk_1">Catat, Edit, dan Simpan catatan harianmu dengan data tersinkronisasi secara Online</string>
+    <string name="desk_2">My Notes App dapat digunakan pada semua perangkat dengan mengaitkannya dengan akun anda</string>
+</resources>
